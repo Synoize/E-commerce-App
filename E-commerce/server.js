@@ -16,11 +16,6 @@ app.use('/items', itemsRoutes);
 
 
 
-
-//comment added for testing purpose
-
-
-
 app.listen(3000, () => {
     console.log('Server Listening on port 3000')
 })
