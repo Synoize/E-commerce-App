@@ -1,0 +1,8 @@
+# Ignore node_modules directory
+node_modules/
+
+Questions/
+form/
+learn_node/
+
+# Other entries...
